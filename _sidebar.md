@@ -12,7 +12,6 @@
     * [EXP Bottling](/functionality/exp)
     * [The Essentials](/functionality/essentials)
     * [Warp System](/functionality/warps)
-    * [Marriage](/functionality/marriage)
   * Economy
     * [Jobs](/economy/jobs)
     * [Auction House](/economy/auctionhouse)
@@ -22,3 +21,4 @@
     * [GreenText](/fun/greentext)
     * [Discord Integration](/fun/discord)
     * [Chairs](/fun/chairs)
+    * [Marriage](/fun/marriage)
