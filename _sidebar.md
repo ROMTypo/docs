@@ -12,6 +12,7 @@
     * [EXP Bottling](/functionality/exp)
     * [The Essentials](/functionality/essentials)
     * [Warp System](/functionality/warps)
+    * [Marriage](/functionality/marriage)
   * Economy
     * [Jobs](/economy/jobs)
     * [Auction House](/economy/auctionhouse)
