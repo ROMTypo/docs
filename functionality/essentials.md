@@ -4,11 +4,11 @@
 
 You can set up to 3 homes.
 
-`/sethome [name]` will make a new home, example: `/sethome castle`
+`/esethome [name]` will make a new home, example: `/sethome castle`
 
-`/home [name]` will take you to the home name.
+`/ehome [name]` will take you to the home name.
 
-`/delhome [name]` will delete a home
+`/edelhome [name]` will delete a home
 
 ## /back
 
